@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(0, 253, 253);
+}
 .btn btn-primary {
     width: auto;
     margin: 2px;
